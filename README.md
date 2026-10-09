@@ -3,7 +3,7 @@
 A portable electrocardiogram (ECG) monitor built using an Arduino. This project captures analog cardiac electrical activity, processes the signal, and displays the real-time heart data.
 
 ## 🛠️ Hardware Requirements
-* **Microcontroller:** Arduino (e.g., Uno, Nano, or Mega)
+* **Microcontroller:** ESP8266
 * **ECG Sensor Module:** AD8232 Heart Rate Monitor
 * **Electrodes:** 3-lead ECG biomedical sensor pads
 * **Display (Optional):** OLED Display or Serial Plotter
