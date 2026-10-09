@@ -1,0 +1,9 @@
+# Ignore Arduino build and temporary files
+build/
+bin/
+*.hex
+*.elf
+*.o
+
+# Ignore Mac system files
+.DS_Store
