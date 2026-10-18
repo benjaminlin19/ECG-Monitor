@@ -4,6 +4,7 @@ A portable electrocardiogram (ECG) monitor built using an Arduino. This project 
 
 ## 🛠️ Hardware Requirements
 * **Microcontroller:** ESP8266
+* **SPO2: MAX30102**
 * **ECG Sensor Module:** AD8232 Heart Rate Monitor
 * **Electrodes:** 3-lead ECG biomedical sensor pads
 * **Display (Optional):** OLED Display or Serial Plotter
